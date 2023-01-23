@@ -9,7 +9,7 @@ public class LoanCalculator {
      * FIXME: WHAT DOES THIS METHOD DO?
      * the code is calculating the amount that needed to pay the loan with 10% of the remaining balance
      * the for loop is to loop through the first months to the third and then add the 10% to the remaining-amount when been check by the for loop
-     * the return amount - return the remaining amount after the calculation has been made the for loop
+     * the return amount - return the remaining amount after the calculation has been made by the for loop
      * @param ???
      * @return ???
      */
